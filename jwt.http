@@ -1,0 +1,17 @@
+GET http://localhost:5000/user
+
+###
+
+POST http://localhost:5000/api/register
+
+###
+
+POST http://localhost:5000/api/login
+
+###
+
+POST http://localhost:5000/api/update-profile
+
+###
+
+GET http://localhost:5000/api/detail-profile
